@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Inconsolata:pixelsize=14";
+static char *font = "Dejavu Sans Mono :pixelsize=12";
+//static char *font = "Source Code Pro: pixelsize=13";
 static int borderpx = 2;
 
 /*
@@ -102,7 +103,6 @@ static const char *colorname[] = {
 	"#93a1a1",  /* 14: brcyan   */
 	"#fdf6e3",  /* 15: brwhite  */
 };
-
 
 /*
  * Default colors (colorname index)
