@@ -7,7 +7,7 @@
  */
 //static char *font = "Dejavu Sans Mono :pixelsize=13";
 static char *font = "Source Code Pro: pixelsize=13";
-//static char *font = "Inconsolata Bold: pixelsize=13";
+//static char *font = "Inconsolata for Powerline: pixelsize=15";
 static int borderpx = 2;
 
 /*
